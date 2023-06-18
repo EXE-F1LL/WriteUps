@@ -74,3 +74,5 @@ Connection to challenge.nahamcon.com closed.
 ```
 
 CTRL+D is commonly used for exiting programs, so it is somewhat sensible that it finalizes REXX-Regina for execution. Was this intended, though? It certainly felt like a strange way to interact.
+
+- Author : SpacerJa
