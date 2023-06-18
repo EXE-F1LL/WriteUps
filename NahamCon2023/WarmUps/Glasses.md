@@ -24,3 +24,5 @@ Here is the same selection displayed on the webpage:
 
 The color of our flag is transparent on top of white, and perhaps might be microscopically tiny as well. Either way, it is evident once we inspect the properties on the page.
 `flag{8084e4530cf649814456f2a291eb81e9}`
+
+ - Author : SpacerJa
