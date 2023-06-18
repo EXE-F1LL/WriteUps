@@ -54,11 +54,6 @@ fp.close()
 
 From this point, I can use my previously valid JWT for asdf, and use `John the Ripper` to brute force the secret key. John will accept the token when the signature is presented in hex, however I had trouble converting myself for some reason. This issue was resolved once I used [Sjord's jwtcrack code](https://github.com/Sjord/jwtcrack/blob/master/jwt2john.py) to recreate my token.
 
-```shell
-$ python convert.py 'eyJhbGciOiJNRDVfSE1BQyJ9.eyJ1c2VybmFtZSI6ImFzZGYifQ.SKkdg9_2EbXj67FcZNnXIg'
-eyJhbGciOiJNRDVfSE1BQyJ9.eyJ1c2VybmFtZSI6ImFzZGYifQ#48a91d83dff611b5e3ebb15c64d9d722
-```
-
 Sjord's jwtcrack code:
 ```python
 #!/usr/bin/env python3
@@ -88,6 +83,11 @@ if __name__ == "__main__":
     else:
         john = jwt2john(sys.argv[1])
         print(john)
+```
+
+```shell
+$ python convert.py 'eyJhbGciOiJNRDVfSE1BQyJ9.eyJ1c2VybmFtZSI6ImFzZGYifQ.SKkdg9_2EbXj67FcZNnXIg'
+eyJhbGciOiJNRDVfSE1BQyJ9.eyJ1c2VybmFtZSI6ImFzZGYifQ#48a91d83dff611b5e3ebb15c64d9d722
 ```
 
 Cracking the secret with john:
