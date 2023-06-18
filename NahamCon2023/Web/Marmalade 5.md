@@ -120,3 +120,5 @@ Upon refreshing the page, we get the flag.
 ![Pasted image 20230616141001.png](https://github.com/spencerja/NahamConCTF_2023_Writeup/blob/main/Web/Images/Pasted%20image%2020230616141001.png)
 
 `flag{a249dff54655158c25ddd3584e295c3b}`
+
+- Author : SpacerJa
