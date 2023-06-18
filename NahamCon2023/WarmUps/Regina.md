@@ -70,7 +70,6 @@ line_str = linein("flag.txt")
 say line_str
   
 flag{2459b9ae7c704979948318cd2f47dfd6}
-Test
 Connection to challenge.nahamcon.com closed.
 ```
 
