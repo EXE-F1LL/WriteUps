@@ -4,7 +4,7 @@
 -------------------------------------
 Within the google sheet, we see a hidden sheet if we check the bottom left:
 
-[Check It Uour YourSelf](https://docs.google.com/spreadsheets/d/17qy0Yw1_8rLOhrG5MWT8rWzpMi3_1vr3A_khcv3j6Cc/)
+[Check It Out YourSelf](https://docs.google.com/spreadsheets/d/17qy0Yw1_8rLOhrG5MWT8rWzpMi3_1vr3A_khcv3j6Cc/)
 ![Pasted image 20230615161723.png](https://github.com/spencerja/NahamConCTF_2023_Writeup/blob/main/Misc/Images/Pasted%20image%2020230615161723.png)
 
 It seems there is no way to view this as long as it is owned by somebody else, but it is possible to clone it into my own google sheet:
