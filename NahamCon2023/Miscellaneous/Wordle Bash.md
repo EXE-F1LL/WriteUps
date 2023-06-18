@@ -246,3 +246,5 @@ flag{2b9576d1a7a631b8ce12595f80f3aba5}
 There is even the extra precaution of needing to press Enter after running in order to retrieve the password. They were quite thorough in wanting you to have execution as root.
 
 `flag{2b9576d1a7a631b8ce12595f80f3aba5}`
+
+- Author : LazyTitan33
