@@ -38,3 +38,5 @@ When visiting /admin while having the token, we can find the flag.
 ![Pasted image 20230615230911.png](https://github.com/spencerja/NahamConCTF_2023_Writeup/blob/main/Web/Images/Pasted%20image%2020230615230911.png)
 
 `flag{a538c88890d45a382e44dfd00296a99b}`
+
+- Author : Tien
