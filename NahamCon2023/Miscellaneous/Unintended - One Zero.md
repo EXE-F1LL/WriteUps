@@ -65,3 +65,5 @@ From here it's a simple `cat` away:
 user@one_zero:~$ ${IFS}cat flag.txt
 flag{81b9de37f5bd218c9f59ac2d9d709bf6}
 ```
+
+- Author : LazyTitan33
