@@ -54,3 +54,5 @@ Viewing the hidden PNG image:
 ![Pasted image 20230617121633.png](https://github.com/spencerja/NahamConCTF_2023_Writeup/blob/main/Web/Images/Pasted%20image%2020230617121633.png)
 
 `flag{e62630124508ddb3952843f183843343}`
+
+- Author : SpacerJa
