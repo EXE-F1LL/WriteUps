@@ -84,3 +84,6 @@ flag{6387e800943b0b468c2622ff858bf744}
 And the flag is here. Clearly a simple `rm` might not be enough to exterminate the file out of existence. However, this situation is probably a little unusual since the `tail -f` was still running long after the rm command.
 
 `flag{6387e800943b0b468c2622ff858bf744}`
+
+
+- Author : LazyTitan33
