@@ -1,5 +1,5 @@
 # CTFs WriteUp
- WriteUps For CTFs That I Participate WIll Be Posted Here
+ WriteUps For CTFs That We Participate WIll Be Posted Here
 
 
 ### NahamCon2023
